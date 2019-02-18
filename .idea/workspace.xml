@@ -12,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Labs/Lab7/index.php">
+        <entry file="file://$PROJECT_DIR$/Lab7/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="170">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -29,7 +29,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../Lab3/Assets/index.html" />
-        <option value="$PROJECT_DIR$/../Labs/Lab7/index.php" />
+        <option value="$PROJECT_DIR$/Lab7/index.php" />
       </list>
     </option>
   </component>
@@ -73,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -104,16 +105,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550488468120</updated>
-      <workItem from="1550488470073" duration="3347000" />
+      <workItem from="1550488470073" duration="3445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3347000" />
+    <option name="totallyTimeSpent" value="3445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -143,15 +143,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Labs/Lab3/index.html">
+    <entry file="file://$PROJECT_DIR$/Lab3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Labs/Lab7/index.php">
+    <entry file="file://$PROJECT_DIR$/Lab7/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="170">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
